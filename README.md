@@ -4,11 +4,6 @@ FIXZO is a modern and responsive **Home Service Booking Platform** that allows u
 
 ---
 
-## 📸 Preview
-
-![FIXZO Homepage](./assets/preview.png)
-
----
 
 ## ✨ Features
 
