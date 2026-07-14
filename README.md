@@ -4,7 +4,6 @@ FIXZO is a modern and responsive **Home Service Booking Platform** that allows u
 
 ---
 
-
 ## ✨ Features
 
 - 🏠 Modern landing page with gradient hero section
